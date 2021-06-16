@@ -1,0 +1,23 @@
+{
+    "title": "Introduce your product quickly & effectively",
+    "text": "Landy comes with multi-lingual support, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in developing web applications using React.js.",
+    "button": "Get started",
+    "section": [
+      {
+        "title": "Daging",
+        "content": "Daging yang kami sediakan merupakan daging berkualitas dan halal.",
+        "icon": "daging.png"
+      },
+      {
+        "title": "Susu",
+        "content": "Susu dengan keaslian yang tak diragukan. Sedia susu sapi, kambing dan domba",
+        "icon": "susu.png"
+      },
+      {
+        "title": "Telur",
+        "content": "Telur unggas kami yang berkualitas. Selain itu sudah dibersihkan.",
+        "icon": "telur.png"
+      }
+    ]
+  }
+  

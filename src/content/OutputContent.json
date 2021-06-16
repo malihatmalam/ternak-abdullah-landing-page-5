@@ -1,0 +1,21 @@
+{
+  "title": "Hasil Olahan Kami",
+  "text": "Bukan hanya ternak hidup yang kami jual, hasil olahan ternak kami juga sediakan. Seperti : ",
+  "section": [
+    {
+      "title": "Daging",
+      "content": "Daging yang kami sediakan merupakan daging berkualitas dan halal.",
+      "icon": "daging.png"
+    },
+    {
+      "title": "Susu",
+      "content": "Susu dengan keaslian yang tak diragukan. Sedia susu sapi, kambing dan domba",
+      "icon": "susu.png"
+    },
+    {
+      "title": "Telur",
+      "content": "Telur unggas kami yang berkualitas. Selain itu sudah dibersihkan.",
+      "icon": "telur.png"
+    }
+  ]
+}
